@@ -1,8 +1,8 @@
-# Viivek — Portfolio (Flutter)
+# Viivek Kumar — Portfolio (Flutter)
 
-A responsive Flutter portfolio for Viivek — built with clean architecture, Riverpod, and go_router.
+A responsive Flutter portfolio for Viivek Kumar — built with clean architecture, Riverpod, and go_router.
 
-**Live site:** [https://vvk027.github.io/](https://vvk027.github.io/)
+**Live site:** [https://viivekworks.github.io/](https://viivekworks.github.io/)
 
 <p align="center">
   <img src="assets/projects/flutter_portfolio_preview.jpg" alt="Flutter Dev Portfolio — responsive web and mobile layouts in light and dark themes" width="100%" />
@@ -166,7 +166,7 @@ For a **user or organization site** at `https://<user>.github.io/`, use `--base-
 
 This repository includes [`.github/workflows/main.yml`](.github/workflows/main.yml), which runs `flutter analyze`, tests, `flutter build web --release`, and deploys `build/web` via `peaceiris/actions-gh-pages`. Adjust `publish_dir`, branch, or `external_repository` in that workflow to match your Pages setup.
 
-**Live site:** [https://vvk027.github.io/](https://vvk027.github.io/)
+**Live site:** [https://viivekworks.github.io/](https://viivekworks.github.io/)
 
 ## Configuration
 

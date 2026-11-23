@@ -14,7 +14,7 @@ class PortfolioApp extends ConsumerWidget {
     final themeMode = ref.watch(themeModeProvider);
 
     return MaterialApp.router(
-      title: 'Viivek-Portfolio',
+      title: 'Viivek Kumar Portfolio',
       // Avoid using accent purple for the browser/PWA chrome on web.
       color: themeMode == ThemeMode.light
           ? AppColors.light.scaffold

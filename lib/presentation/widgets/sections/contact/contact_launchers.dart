@@ -45,5 +45,5 @@ Future<void> openContactUrl(BuildContext context, String url) async {
 
 String contactCopyrightText() {
   final year = DateTime.now().year;
-  return '© $year Viivek. All rights reserved.';
+  return '© $year Viivek Kumar. All rights reserved.';
 }

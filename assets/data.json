@@ -1,5 +1,5 @@
 {
-  "name": "Viivek",
+  "name": "Viivek Kumar",
   "location": "Hyderabad, India",
   "title": "Lead Mobile Developer · Sr. Mobile Developer · Flutter · React Native · Ionic · Android · iOS",
   "summary": [
@@ -513,7 +513,7 @@
       "previewImage": "assets/projects/flutter_band_fit_preview.jpg",
       "playStoreUrl": [],
       "appStoreUrl": [],
-      "githubUrl": "https://github.com/VVK027/flutter_band_fit",
+      "githubUrl": "https://github.com/viivekworks/flutter_band_fit",
       "pubUrl": "https://pub.dev/packages/flutter_band_fit",
       "isOpenSource": true
     },
@@ -556,7 +556,7 @@
       "previewImage": "assets/projects/metro_city_pulse_preview.jpg",
       "playStoreUrl": [],
       "appStoreUrl": [],
-      "githubUrl": "https://github.com/VVK027/metro_city_pulse",
+      "githubUrl": "https://github.com/viivekworks/metro_city_pulse",
       "isOpenSource": true
     },
     {
@@ -595,7 +595,7 @@
       "previewImage": "assets/projects/flutter_portfolio_preview.jpg",
       "playStoreUrl": [],
       "appStoreUrl": [],
-      "githubUrl": "https://github.com/VVK027/flutter_portfolio",
+      "githubUrl": "https://github.com/viivekworks/flutter_portfolio",
       "isOpenSource": true
     }
   ],
@@ -678,12 +678,12 @@
   ],
   "contact": {
     "note": "Open to Lead/Senior Mobile roles focused on Flutter architecture, IoT integrations, and high-impact product delivery.",
-    "email": "viivek027@gmail.com",
-    "phone": "+91 95053 31319",
+    "email": "viivek.kumar.dev@gmail.com",
+    "phone": "+91-9505331319",
     "location": "Hyderabad, India",
     "links": [
-      "https://linkedin.com/in/connectvivek27",
-      "https://github.com/VVK027",
+      "https://www.linkedin.com/in/viivekworks",
+      "https://github.com/viivekworks",
       "https://wa.me/919505331319"
     ]
   }
